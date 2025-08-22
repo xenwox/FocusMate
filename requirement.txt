@@ -1,0 +1,8 @@
+PyQt5==5.15.9        # Modern masaüstü arayüzü
+requests==2.31.0     # HTTP istekleri için
+pandas==2.1.1        # Veri yönetimi ve tablo işlemleri
+numpy==1.26.2        # Sayısal işlemler
+matplotlib==3.8.1    # Grafik ve görselleştirme
+sqlalchemy==2.0.21   # Veritabanı yönetimi
+cryptography==41.0.3 # Şifreleme ve güvenlik işlemleri
+python-dotenv==1.0.0 # Ortam değişkenleri yönetimi

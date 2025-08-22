@@ -1,0 +1,10 @@
+FocusMate/
+│── main.py              # Ana arayüz
+│── auth.py              # Şifreli giriş
+│── backup.py            # Dosya yedekleme
+│── password_manager.py    # Şifre kasası
+│── schedule.py          # Çizelge / görev planlama
+│── notes.py             # Not alma
+│── pomodoro.py          # Pomodoro zamanlayıcı
+│── assets/              # İkonlar, görseller
+│── data/                # Yedekler, notlar, şifre veritabanı
